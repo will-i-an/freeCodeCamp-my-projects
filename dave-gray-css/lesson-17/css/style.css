@@ -86,7 +86,7 @@ footer {
     }
 }
 
-/* || MOBILE DEVIDCE LANDSCAPE */
+/* || MOBILE DEVICE LANDSCAPE */
 @media screen and (max-height: 425px) and (min-aspect-ratio: 7/4) {
     body {
         background-color: dodgerblue;
